@@ -1,4 +1,10 @@
 *{
-background-color: antiquewhite;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#titulosuperior{
+    margin-left: 50px;
+    padding-top: 150px;
+    font-size: 75px;
+    letter-spacing: -1.5;
 }
