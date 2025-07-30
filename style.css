@@ -17,3 +17,28 @@
     font-size: 25px;
     letter-spacing: 0px;
 }
+
+#menusuperior{
+    background-color: antiquewhite;
+    color: black;
+}
+#menuinformativo{
+    background-color: aquamarine;
+    display:grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+.textoinformativo{
+    display: grid;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 70px;
+    margin-left: 20px;
+
+}
+.spaninformativo{
+    font-size: 20px;
+    font-weight: normal;
+    
+}
