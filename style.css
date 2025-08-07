@@ -51,3 +51,13 @@
     column:auto;
 }
 
+#image{
+    margin: 100px  25px 100px 100px;
+
+}
+
+    #textoconteudo{
+        text-align: justify;
+        font-size: 40px;
+        font-weight: bolder;
+    }
